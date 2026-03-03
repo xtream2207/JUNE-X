@@ -16,7 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=the+bot+supports+deployment;on+all+free+panels+easily)](https://git.io/typing-svg)
 
 <div align="center">    
-<strong> DEPLOY JUNE-X </strong>
+<strong> DEPLOY XTREAM TECH BOT</strong>
     <br>
   <a href="https://auth-ivory-delta.vercel.app/">
     <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
