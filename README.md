@@ -19,7 +19,7 @@
 <strong> DEPLOY XTREAM TECH BOT</strong>
     <br>
   <a href="https://auth-ivory-delta.vercel.app/">
-    <img src="https://img.shields.io/badge/Deploy%20June-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="FORK REPO"/>
+    <img src="https://img.shields.io/badge/Deploy%20Xtreambot-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkblue&color=darkblue" alt="XTREAM REPO"/>
   </a>
 </div>
 
